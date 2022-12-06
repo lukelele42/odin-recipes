@@ -1,0 +1,27 @@
+body {
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 55px;
+    padding-bottom: 50px;
+    background-color: rgb(231, 163, 37);
+    color: rgb(255, 255, 255);
+}
+
+h1 {
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+h4 {
+    padding-left: 630px;
+    padding-bottom: 55px;
+}
+
+
+.meat_pic {
+    height: 300px;
+    width: auto;
+    padding-left: 630px;
+}
+

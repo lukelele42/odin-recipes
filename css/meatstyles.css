@@ -1,0 +1,29 @@
+body {
+    font-size: 20px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-left: 55px;
+    padding-bottom: 50px;
+    background-image: url(../img/orange.jpg);
+    background-size: cover;
+    background-color: #f38c06;
+    color: rgb(255, 255, 255);
+}
+
+h1 {
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+h4 {
+    padding-left: 630px;
+    padding-bottom: 55px;
+}
+
+
+.meat_pic {
+    height: 300px;
+    width: auto;
+    padding-left: 630px;
+}
+

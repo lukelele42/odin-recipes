@@ -1,0 +1,33 @@
+body {
+    background-image: url(../img/purple.jpg);
+    background-size: cover;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(255, 217, 5);
+    padding-left: 100px;
+    width: 55%;
+}
+
+img {
+    padding-left: 50px;
+}
+
+h1, h4 {
+    padding-left: 55px;
+}
+
+h4 {
+    padding-bottom: 15px;
+}
+
+.outro {
+    text-align: center;
+    padding-top: 50px;
+}
+
+#tim {
+    padding-left: 210px;
+    padding-bottom: 100px;
+    height: 500px;
+    width: auto;
+}
